@@ -11,3 +11,13 @@ function countVowel(str){
     }
     console.log(count)
 }
+
+let count1 = countVowel("narashimha");
+console.log(count1)
+
+//Arrow functions
+function sum(a,b){
+    sum = a+b;
+    console.log(sum)
+}
+
