@@ -10,7 +10,7 @@ console.log(student[this.fullName1])
 
 
 
-//example1
+//example
 
 const person = {
     fullName: "John",
